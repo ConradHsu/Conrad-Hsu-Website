@@ -21,8 +21,7 @@ export const EXPERIENCES = [
     year: "2022 - 2024",
     role: "Machine Learning Researcher",
     company: "UC San Diego EECS",
-    description: `Developed novel musical evaluation metrics, including groove pattern similarity, pitch class histogram en-
-    tropy, chord tone emphasis, and weighted swing deviation, to assess generative jazz music models (Markov
+    description: `Developed novel musical evaluation metrics, including groove pattern similarity, pitch class histogram entropy, chord tone emphasis, and weighted swing deviation, to assess generative jazz music models (Markov
     model and RNN)`,
     technologies: ["Python", "Keras", "TensorFlow"],
   },
