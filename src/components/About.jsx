@@ -1,4 +1,4 @@
-import logoImg from "../assets/CH.jpeg";
+import logoImg from "../assets/CH.jpg";
 import { ABOUT_TEXT_1, ABOUT_TEXT_2 } from "../constants";
 
 const About = () => {
